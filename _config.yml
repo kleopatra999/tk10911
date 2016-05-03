@@ -1,0 +1,27 @@
+# Site settings
+title: TK-10911
+email: chris@tk10911.co.uk
+description: The adventures of TK-10911
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.tk10911.co.uk" # the base hostname & protocol for your site
+author: Chris Pearson
+permalink: /:year/:month/:day/:title/
+
+paginate: 10
+paginate_path: "/page:num/"
+
+# Build settings
+markdown: kramdown
+
+defaults:
+    -
+      scope:
+        path: ""
+      values:
+        author: "Chris Pearson"
+        layout: post
+
+gems: [jekyll-paginate]
+
+exclude:
+    - vendor

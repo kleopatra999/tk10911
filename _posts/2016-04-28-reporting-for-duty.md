@@ -19,4 +19,4 @@ Joining the world famous UKG and 501st Legion is a dream come true.
 		src="/images/2016-04-28-reporting-for-duty/CJP20160428-16740.jpg"
 	  srcset="/images/2016-04-28-reporting-for-duty/CJP20160428-16740.jpg 1x, /images/2016-04-28-reporting-for-duty/CJP20160428-16740-x2.jpg 2x" />
 
- &mdash; TK-10911
+ &ndash; TK-10911

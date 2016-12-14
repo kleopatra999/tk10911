@@ -1,0 +1,18 @@
+# Site settings
+title: tk-10911
+email: chris@tk10911.co.uk
+description: TK10911 - Imperial Stormtrooper
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.tk10911.co.uk" # the base hostname & protocol for your site
+author: Chris Pearson
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+
+defaults:
+    -
+      scope:
+        path: ""
+      values:
+        author: "Chris Pearson"
